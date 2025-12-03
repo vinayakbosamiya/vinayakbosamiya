@@ -1,3 +1,4 @@
+![logo](https://github.com/vinayakbosamiya/vinayakbosamiya/blob/main/Yellow%20and%20Blue%20Bold%20Geometric%20Software%20Developer%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Vinay Bosamiya</h1>
 <h3 align="center">I Am Passionate Web Developer From Rajkot,India</h3>
 
